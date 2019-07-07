@@ -1,3 +1,33 @@
 <resources>
-    <string name="app_name">HCShare</string>
+    <string name="app_name">HC Share</string>
+    <string name="email_hint">Email</string>
+    <string name="name_hint">Name</string>
+    <string name="password_hint">Password</string>
+    <string name="register">Register</string>
+    <string name="login">login</string>
+    <string name="search_hint">Search</string>
+    <string name="my_items">My items</string>
+    <string name="description_hint">Description</string>
+    <string name="title_hint">Title</string>
+    <string name="post">Post</string>
+    <string name="chat_with_author_button">chat with author</string>
+    <string name="send_button">Send</string>
+    <string name="message_hint">Message</string>
+    <string name="register_failed">Register failed</string>
+    <string name="regiser_data_error">Please check the data</string>
+    <string name="login_fialed">Login failed</string>
+    <string name="my_items_menu">My items</string>
+    <string name="sold_items_menu">Sold items</string>
+    <string name="bought_items_menu">Bought items</string>
+    <string name="messages_menu">Messages</string>
+    <string name="add_item_data_missing">Data missing</string>
+    <string name="add_item_failed_text">Add item failed</string>
+    <string name="message_send_failed">Message send failed</string>
+    <string name="search_button">search</string>
+    <string name="buy_button">Buy</string>
+    <string name="buy_failed">Buy failed</string>
+    <string name="sold_text">Sold</string>
+    <string name="rating_failed">Rating failed</string>
+    <string name="distance_km">Distance km</string>
+    <string name="profile">Profile</string>
 </resources>
