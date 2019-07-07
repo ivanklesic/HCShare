@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "259529224397",
-    "firebase_url": "https://home-bebf1.firebaseio.com",
-    "project_id": "home-bebf1",
-    "storage_bucket": "home-bebf1.appspot.com"
+    "project_number": "592798511330",
+    "firebase_url": "https://hcshare-c57a6.firebaseio.com",
+    "project_id": "hcshare-c57a6",
+    "storage_bucket": "hcshare-c57a6.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:259529224397:android:cd95775a604a5964",
+        "mobilesdk_app_id": "1:592798511330:android:cd95775a604a5964",
         "android_client_info": {
           "package_name": "org.iklesic.hcshare"
         }
       },
       "oauth_client": [
         {
-          "client_id": "259529224397-0fv9f48009tr2mtmqntj3n2imcfeavdc.apps.googleusercontent.com",
+          "client_id": "592798511330-6qf0km53kgj5oser7ddb0e0hlkbnbqv2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBDPK3N05nU0cElNAFmsZoTKBDc7FFp4bE"
+          "current_key": "AIzaSyCX41D-2bKejX_urr_z-rlMicnA-Cd7dwY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "259529224397-0fv9f48009tr2mtmqntj3n2imcfeavdc.apps.googleusercontent.com",
+              "client_id": "592798511330-6qf0km53kgj5oser7ddb0e0hlkbnbqv2.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
