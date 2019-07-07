@@ -204,7 +204,8 @@ public class ShareActivity extends AppCompatActivity implements ShareClickListen
 
     @OnClick(R.id.my_items)
     public void onMyItemsClicked() {
-
+        Intent intent = new Intent(this, ProfileActivity.class);
+        startActivity(intent);
     }
 
     @OnClick(R.id.search_button)
@@ -230,7 +231,11 @@ public class ShareActivity extends AppCompatActivity implements ShareClickListen
 
     @Override
     public void onShareItemClicked(ShareItem shareItem) {
-
+        Intent intent = new Intent(this, ItemDetailsActivity.class);
+        Bundle bundle = new Bundle();
+        bundle.putSerializable(ItemDetailsActivity.ITEM_DETAILS_EXTRA, shareItem);
+        intent.putExtras(bundle);
+        startActivity(intent);
     }
 
     private void getGeolocation() {

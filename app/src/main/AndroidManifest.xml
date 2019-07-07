@@ -26,6 +26,10 @@
         </activity>
         <activity android:name=".ui.activity.RegisterActivity" />
         <activity android:name=".ui.activity.ShareActivity" />
+        <activity android:name=".ui.activity.AddEditItemActivity" />
+        <activity android:name=".ui.activity.ItemDetailsActivity" />
+        <activity android:name=".ui.activity.MessagesActivity" />
+        <activity android:name=".ui.activity.ProfileActivity" />
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
