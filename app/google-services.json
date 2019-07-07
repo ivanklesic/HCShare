@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "259529224397",
+    "firebase_url": "https://home-bebf1.firebaseio.com",
+    "project_id": "home-bebf1",
+    "storage_bucket": "home-bebf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259529224397:android:cd95775a604a5964",
+        "android_client_info": {
+          "package_name": "org.iklesic.hcshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259529224397-0fv9f48009tr2mtmqntj3n2imcfeavdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDPK3N05nU0cElNAFmsZoTKBDc7FFp4bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259529224397-0fv9f48009tr2mtmqntj3n2imcfeavdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
